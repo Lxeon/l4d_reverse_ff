@@ -6,6 +6,7 @@
 		"fr"	"{orange}AVIS:{lightgreen} Ce serveur sens inverse les dégâts de tir ami!"
 		"es"	"{orange}AVISO:{lightgreen} ¡Este servidor revierte el daño de fuego amigo!"
 		"ru"	"{orange}ВНИМАНИЕ:{lightgreen} Этот сервер реверсировать дружественный огонь урон!"
+		"chi" 	"{orange}警告:{lightgreen} 本服务器安装队友反伤插件！"
 		"zho" 	"{orange}警告:{lightgreen} 本伺服器安裝隊友反傷模組！"
 	}
 
@@ -15,6 +16,7 @@
 		"fr"	"{orange}AVIS:{lightgreen} Ce serveur sens inverse les dégâts de tir ami et de brûlure!"
 		"es"	"{orange}AVISO:{lightgreen} ¡Este servidor revierte el fuego amigo y el daño por quemaduras!"
 		"ru"	"{orange}ВНИМАНИЕ:{lightgreen} Этот сервер реверсировать дружественный огонь и урон от ожога!"
+		"chi" 	"{orange}警告:{lightgreen} 本服务器可以逆转队友火力以及燃烧或高爆弹伤害！"
 		"zho" 	"{orange}警告:{lightgreen} 本伺服器可以逆轉隊友火力以及燃燒或高爆彈傷害！"
 	}
 
@@ -24,6 +26,7 @@
 		"fr"	"Vous avez attaqué"
 		"es"	"Tu atacaste"
 		"ru"	"Вы напали"
+		"chi"	"你攻击了"
 		"zho"	"您攻擊了"
 	}
 	"SurvivorFF"
@@ -32,6 +35,7 @@
 		"fr"	"les dégâts de tir ami sens inverse"
 		"es"	"daño de fuego amigo revertido"
 		"ru"	"Урон от дружественного огня реверсировать"
+		"chi"	"队友火力伤害逆转"
 		"zho"	"隊友火力傷害逆轉"
 	}
 	"InfectedFF"
@@ -40,6 +44,7 @@
 		"fr"	"les dégâts d'attaque d'équipe sens inverse"
 		"es"	"daño de ataque en equipo revertido"
 		"ru"	"командная атака повреждать реверсировать"
+		"chi"	"团队攻击伤害逆转"
 		"zho"	"團隊攻擊傷害逆轉"
 	}
 	"Attacked"
@@ -48,6 +53,7 @@
 		"fr"	"a attaqué"
 		"es"	"atacó"
 		"ru"	"атаковали"
+		"chi"	"被攻击"
 		"zho"	"被攻擊"
 	}
 	"ExcessiveFF"
@@ -56,6 +62,7 @@
 		"fr"	"Tir ami excessif"
 		"es"	"Fuego amigo excesivo"
 		"ru"	"Чрезмерный дружеский огонь"
+		"chi"	"过度队友火力"
 		"zho"	"過度隊友火力"
 	}
 	"ExcessiveTA"
@@ -64,6 +71,7 @@
 		"fr"	"Attaques d'équipe excessif"
 		"es"	"Ataques de equipo excesivos"
 		"ru"	"Чрезмерные командные атаки"
+		"chi"	"过度的团队攻击"
 		"zho"	"過度的團隊攻擊"
 	}
 	"DmgReversed"
@@ -73,6 +81,7 @@
 		"fr"		"Vous avez attaqué {olive}{1}{lightgreen}, les dégâts de tir ami sens inverse"
 		"es"		"Atacaste a {olive}{1}{lightgreen}, daño de fuego amigo revertido"
 		"ru"		"Вы атаковали {olive}{1}{lightgreen}, урон дружественным огнем реверсировать"
+		"chi"		"你攻击了 {olive}{1}{lightgreen}, 你将获得反伤"
 		"zho"		"你攻擊了 {olive}{1}{lightgreen}, 隊友傷害被逆轉"
 	}
 }

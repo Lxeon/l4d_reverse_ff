@@ -1,3 +1,9 @@
+07-Apr-2026 v2.9.3
+
+- Fixed if in god mode(readyup), Attacking teammates will cause them to heal.
+- Fixed an issue where attacking teammates that incap them or killed them would not correctly reflect damage.
+- Add Simplified Chinese translation
+
 10-May-2025 v2.9.2
 
 - Minor code improvements to support L4D1.
